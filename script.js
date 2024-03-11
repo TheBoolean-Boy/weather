@@ -51,4 +51,4 @@ let weather = {
       }
     });
   
-  weather.fetchWeather("Rourkela");
+  weather.fetchWeather("Bhubaneswar");
